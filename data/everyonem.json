@@ -1,0 +1,14 @@
+{
+    "app_id": "dababe970bc2f8acd2f581abf347",
+    "collection_id": "dcbabe970bf2dbb0a7f192feef02",
+    "items": [],
+    "name": "everyonem",
+    "permissions": {},
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        }
+    ]
+}
