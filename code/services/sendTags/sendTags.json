@@ -1,0 +1,14 @@
+{
+    "current_version": 21,
+    "dependencies": "http,log",
+    "logging_enabled": "true",
+    "name": "sendTags",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "sendTags.js"
+}
