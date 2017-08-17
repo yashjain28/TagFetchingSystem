@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "description": "this system fetches tags dynamically",
+    "edge_sync": {},
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "TagFetchingSystem",
+    "platform_url": "http://127.0.0.1:9000",
+    "system_key": "dababe970bc2f8acd2f581abf347",
+    "system_secret": "DABABE970BA6F1BED09EB5C9DC9801"
+}
