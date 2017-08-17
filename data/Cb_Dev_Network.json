@@ -1,0 +1,14 @@
+{
+    "app_id": "dababe970bc2f8acd2f581abf347",
+    "collection_id": "8890db980be6d6e0c9e0bf8eec03",
+    "items": [],
+    "name": "Cb_Dev_Network",
+    "permissions": {},
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        }
+    ]
+}
